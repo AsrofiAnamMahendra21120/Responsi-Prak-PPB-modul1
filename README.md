@@ -22,9 +22,7 @@ REST API sederhana untuk layanan cuci sepatu berbasis Node.js, Express.js, dan S
 - Vercel (Hosting)
 
 ## Deploy
-1. Tambahkan variabel lingkungan di Vercel:
-   - SUPABASE_URL
-   - SUPABASE_KEY
-2. Deploy langsung dari repository GitHub.
-3. Akses API publik: `https://responsi-prak-ppb-modul1.vercel.app/`
+1. Deploy langsung dari repository GitHub.
+2. Akses API publik: `https://responsi-prak-ppb-modul1.vercel.app/`
+
 
