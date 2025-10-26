@@ -26,4 +26,5 @@ REST API sederhana untuk layanan cuci sepatu berbasis Node.js, Express.js, dan S
    - SUPABASE_URL
    - SUPABASE_KEY
 2. Deploy langsung dari repository GitHub.
-3. Akses API publik: ``
+3. Akses API publik: `https://responsi-prak-ppb-modul1.vercel.app/`
+
